@@ -23,7 +23,7 @@ To get started with uni-ml-project, follow these steps:
    ```
 2. **Explore and Download Kaggle Dataset**:
    - Download the 2015 dataset as a csv file from Kaggle: https://www.kaggle.com/datasets/cdc/mortality/data?select=2015_data.csv
-3. **Explore the Jupyter Notebooka**:
+3. **Explore the Jupyter Notebooks**:
    - Within the Data_Preprocessing.ipynb file, I conducted the feature engineering and data cleaning for our group to ensure that the dataset was properly processed for our models to be trained on, which included the removal of variables containing NaN values, binarisation and filtering.
    - Within the ML_Algorithm.ipynb file, I used the preprocessed data to train my Random Forest model, where I continously evaluated and fine-tuned the hyperparameters of the model to improve the model's performance.
 4. **Full Documentation for ML Project**:
