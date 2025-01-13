@@ -19,7 +19,7 @@ To get started with uni-ml-project, follow these steps:
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/yourusername/uni-ml-project.git
-   cd US-motor-accident-ML
+   cd uni-ml-project
    ```
 2. **Explore and Download Kaggle Dataset**:
    - Download the 2015 dataset as a csv file from Kaggle: https://www.kaggle.com/datasets/cdc/mortality/data?select=2015_data.csv
