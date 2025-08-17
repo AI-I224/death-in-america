@@ -1,4 +1,4 @@
-# Death in America: Predicting the cause of death in the US
+# Death in America: Investigating death in the US
 
 ## Overview
 
@@ -16,7 +16,7 @@ My personal aim was for the Random Forest model I employed to be able to leverag
 
 To get started with uni-ml-project, follow these steps:
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/uni-ml-project.git
    cd death-in-america
