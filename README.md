@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Screenshot of Death in America report cover](cover.png)
+
 Death in America was a research project where we were expected to choose a question/problem that they can answer using one of the predictive methods introduced in our Data Science module and report our results in a research paper. Our team chose to investigate causes of mortality in the United States through a diverse set of machine learning models, such as SVM and logistic regression, applied to a Kaggle dataset that included 2.8 million recorded deaths in the US from 2015. For my problem of interest, I explored mortalities related to motor accidents, specifically driver fatalities, due tp a 20% increase in crash deaths from 2011 to 2021. In consequence, the US faced a staggering cost of $340 billion in 2022. Thus, this highlighted how understanding the factors influencing motor accident fatalities was more critical than ever.
 
 ## Aim of Project
